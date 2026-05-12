@@ -1,4 +1,4 @@
-# ShapeaK ADMM
+# Shapeak
 
 This repository contains MATLAB and Python/JAX implementations of the Shapeak algorithm for unconstrained binary integer programming experiments.
 
