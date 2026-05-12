@@ -29,6 +29,13 @@ The code accompanies the sharp-peak penalty approach described in:
         `-- instance/          # Gset and Instances_uBQP benchmark data
 ```
 
+## Benchmark Data
+
+The Python experiments use benchmark instances from the following public datasets:
+
+- Gset Max-Cut instances: [https://web.stanford.edu/~yyye/yyye/Gset/](https://web.stanford.edu/~yyye/yyye/Gset/)
+- BiqBin benchmark instances: [http://www.biqbin.eu/Home/BenchmarkInstances](http://www.biqbin.eu/Home/BenchmarkInstances)
+
 ## Citation
 
 If you use this code in academic work, please cite:
