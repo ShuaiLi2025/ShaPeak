@@ -16,11 +16,6 @@ switch key
         else
             out = @(var)data.AA*var; 
         end
-%         if  length(x) <= 6e3
-%             out = data.A'*data.A; 
-%         else
-%             out = @(var)( (data.A*var)'*data.A )'; 
-%         end
 end       
 
 end
